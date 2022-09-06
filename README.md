@@ -15,6 +15,11 @@ Rajiv Gandhi international airport is closest to the Salarjung museum.The follow
 3. Reach to the charminar.
 4. Then we find the museum which is 7 minutes away from it.
 
+Place near the museum are
+* Charminar
+* Golkonda fort
+* Birla mandir
+
 
 
  
