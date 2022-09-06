@@ -33,6 +33,12 @@ There are many cities to visit in India for recreation purpose.Some of them are 
 | Kolkata | Howra bridge | 1hours |
 | Chennai | Marina beach | 2hours |
 
+******
+
+## Success Quotes
+>“Try not to become a man of success. Rather become a man of value.”― *Albert Einstein*
+>“It is better to fail in originality than to succeed in imitation.”― *Herman Melville*
+
 
 
 
