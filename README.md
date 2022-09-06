@@ -7,7 +7,7 @@ It is one of the **oldest** museums in India.
 
 *********
 
-## Directions from airport to museum ##
+## Directions from airport to museum 
 Rajiv Gandhi international airport is closest to the Salarjung museum.The following are the steps to be followed from airport to museum.
 
 1. First of all walk through the shuttle bus station.
@@ -21,6 +21,18 @@ Place near the museum are
 * Birla mandir
 
 [just one click to know about me](AboutMe.md)
+
+*******
+
+## Cities to visit in India 
+There are many cities to visit in India for recreation purpose.Some of them are listed below which are to be visited for sure.
+| Name of the City | Location | amount of time to spend |
+| ---: | ---: | ---: |
+| Banglore | Mysore palace | 7hours|
+| Hyderabad | Charminar | 2.5hours |
+| Kolkata | Howra bridge | 1hours |
+| Chennai | Marina beach | 2hours |
+
 
 
 
