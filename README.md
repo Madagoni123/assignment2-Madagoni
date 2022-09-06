@@ -40,6 +40,16 @@ There are many cities to visit in India for recreation purpose.Some of them are 
 
 >“It is better to fail in originality than to succeed in imitation.”― *Herman Melville*
 
+*******
+
+## Code Fencing
+```
+const arr = ["This", "Little", "Piggy"];
+const first = arr.pop();
+console.log(first);
+// "Piggy"
+```
+[Source of code snippet](https://css-tricks.com/snippets/javascript/getting-first-and-last-items-in-array-and-splitting-all-the-rest/)
 
 
 
