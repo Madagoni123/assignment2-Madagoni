@@ -43,6 +43,10 @@ There are many cities to visit in India for recreation purpose.Some of them are 
 *******
 
 ## Code Fencing
+
+>How can I close all open documents in illustrator with script?
+>
+[Source of Stack overflow quwestion](https://stackoverflow.com/questions/73639400/how-can-i-close-all-open-documents-in-illustrator-with-script)
 ```
 const arr = ["This", "Little", "Piggy"];
 const first = arr.pop();
